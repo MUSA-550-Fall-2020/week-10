@@ -7,6 +7,8 @@
 
 - [Andrew Ng's K-means Clustering Lecture](https://www.youtube.com/watch?v=hDmNF9JG3lo&feature=youtu.be)
 - [Using DBSCAN to identify neighborhoods](https://carto.com/blog/using-location-data-identify-communities-williamsburg-ny/)
+- [Discriminatory ads on Facebook](https://www.propublica.org/article/facebook-promises-to-bar-advertisers-from-targeting-ads-by-race-or-ethnicity-again)
+- [NY Times exposé on the dangers of location data](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html)
 
 ## References
 
